@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 780" fill="none">
+
+  <rect width="1280" height="780" rx="12" fill="#e8eef4"/>
+  <rect x="0" y="0" width="1280" height="36" fill="#d5dee8"/>
+  <circle cx="18" cy="18" r="5" fill="#ed6a5e"/>
+  <circle cx="34" cy="18" r="5" fill="#f4bf4f"/>
+  <circle cx="50" cy="18" r="5" fill="#61c554"/>
+  <rect x="180" y="10" width="920" height="16" rx="8" fill="#fff"/>
+
+
+  <text x="196" y="22" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#7a8694">app.archsys.com.ar / equipo-detalles / E01</text>
+  <rect x="0" y="36" width="1280" height="50" fill="#156fb3"/>
+  
+  <rect x="20" y="54" width="18" height="2" fill="#fff"/>
+  <rect x="20" y="60" width="18" height="2" fill="#fff"/>
+  <rect x="20" y="66" width="18" height="2" fill="#fff"/>
+
+  <text x="56" y="67" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#fff">Arch - Detalle de equipo</text>
+
+  <rect x="24" y="106" width="820" height="630" rx="10" fill="#fff" stroke="#e4e8ec"/>
+  <text x="48" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#0c1c41">E01 - Edificio Nueva C&#243;rdoba</text>
+  <text x="48" y="178" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#7a8694">Av. Hip&#243;lito Yrigoyen 184 - C&#243;rdoba Capital</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    <text x="48" y="230" fill="#7a8694">Marca</text><text x="220" y="230" fill="#0c1c41">Otis</text>
+    <text x="48" y="268" fill="#7a8694">Modelo</text><text x="220" y="268" fill="#0c1c41">Gen2 Comfort</text>
+    <text x="48" y="306" fill="#7a8694">Paradas</text><text x="220" y="306" fill="#0c1c41">12</text>
+    <text x="48" y="344" fill="#7a8694">Capacidad</text><text x="220" y="344" fill="#0c1c41">8 personas / 630 kg</text>
+    <text x="48" y="382" fill="#7a8694">Conservador</text><text x="220" y="382" fill="#0c1c41">Ascensores del Centro S.A.</text>
+    <text x="48" y="420" fill="#7a8694">Administraci&#243;n</text><text x="220" y="420" fill="#0c1c41">Adm. Nueva C&#243;rdoba</text>
+    <text x="48" y="458" fill="#7a8694">Ultima inspecci&#243;n</text><text x="220" y="458" fill="#0c1c41">07/09/2026 09:14</text>
+    <text x="48" y="496" fill="#7a8694">Proxima PS</text><text x="220" y="496" fill="#0c1c41">12/03/2027</text>
+    <text x="48" y="534" fill="#7a8694">Estado</text>
+  </g>
+  <rect x="220" y="516" width="72" height="24" rx="12" fill="#e7f8f1"/>
+  <text x="256" y="533" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#0a7a58">Activo</text>
+  <rect x="48" y="572" width="200" height="40" rx="8" fill="#10385e"/>
+  <text x="148" y="597" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fff">Historial de visitas</text>
+  <rect x="264" y="572" width="180" height="40" rx="8" fill="#fff" stroke="#156fb3"/>
+  <text x="354" y="597" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#156fb3">Imprimir QR</text>
+  <rect x="864" y="106" width="392" height="630" rx="10" fill="#fff" stroke="#e4e8ec"/>
+  <text x="1060" y="150" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#0c1c41">Identificaci&#243;n QR</text>
+  <rect x="944" y="180" width="232" height="232" fill="#fff" stroke="#0c1c41" stroke-width="8"/>
+  <g fill="#0c1c41">
+    <rect x="968" y="204" width="36" height="36"/>
+    <rect x="1116" y="204" width="36" height="36"/>
+    <rect x="968" y="352" width="36" height="36"/>
+    <rect x="1016" y="220" width="16" height="16"/>
+    <rect x="1040" y="244" width="16" height="16"/>
+    <rect x="1064" y="220" width="16" height="16"/>
+    <rect x="1016" y="268" width="16" height="16"/>
+    <rect x="1088" y="268" width="16" height="16"/>
+    <rect x="1040" y="292" width="16" height="16"/>
+    <rect x="1016" y="316" width="16" height="16"/>
+    <rect x="1064" y="316" width="16" height="16"/>
+    <rect x="1088" y="340" width="16" height="16"/>
+    <rect x="1040" y="364" width="16" height="16"/>
+  </g>
+  <text x="1060" y="448" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1d2a36">E01 - Nueva C&#243;rdoba</text>
+  <text x="1060" y="476" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#7a8694">El t&#233;cnico escanea el QR en sitio</text>
+  <text x="1060" y="496" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#7a8694">para registrar la inspecci&#243;n.</text>
+  <rect x="944" y="530" width="232" height="44" rx="8" fill="#156fb3"/>
+  <text x="1060" y="557" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fff">Descargar etiqueta</text>
+  <text x="640" y="760" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#9aa5b1">Captura ilustrativa - reemplazar por imagen real</text>
+</svg>

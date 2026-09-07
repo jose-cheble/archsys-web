@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 780" fill="none">
+
+  <rect width="1280" height="780" rx="12" fill="#e8eef4"/>
+  <rect x="0" y="0" width="1280" height="36" fill="#d5dee8"/>
+  <circle cx="18" cy="18" r="5" fill="#ed6a5e"/>
+  <circle cx="34" cy="18" r="5" fill="#f4bf4f"/>
+  <circle cx="50" cy="18" r="5" fill="#61c554"/>
+  <rect x="180" y="10" width="920" height="16" rx="8" fill="#fff"/>
+
+
+  <text x="196" y="22" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#7a8694">app.archsys.com.ar / monitoreos / rutas</text>
+  <rect x="0" y="36" width="1280" height="50" fill="#156fb3"/>
+  
+  <rect x="20" y="54" width="18" height="2" fill="#fff"/>
+  <rect x="20" y="60" width="18" height="2" fill="#fff"/>
+  <rect x="20" y="66" width="18" height="2" fill="#fff"/>
+
+  <text x="56" y="67" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#fff">Arch - Monitoreo de rutas</text>
+
+  <rect x="0" y="86" width="320" height="694" fill="#fff"/>
+  <text x="24" y="122" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#156fb3">Atras</text>
+  <text x="24" y="160" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#7a8694">FECHA</text>
+  <rect x="24" y="170" width="272" height="40" rx="8" fill="#f4f7f9" stroke="#d5dee8"/>
+  <text x="40" y="195" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#0c1c41">07/09/2026</text>
+  <text x="24" y="240" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#7a8694">TECNICO</text>
+  <rect x="24" y="250" width="272" height="36" rx="8" fill="#f4f7f9" stroke="#d5dee8"/>
+  <text x="40" y="273" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#9aa5b1">Buscar t&#233;cnico...</text>
+  <rect x="24" y="302" width="272" height="40" rx="6" fill="#e8f2fb"/>
+  <text x="40" y="327" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#123e6a">Juan Garc&#237;a</text>
+  <text x="40" y="372" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#1d2a36">Ana P&#233;rez</text>
+  <text x="40" y="412" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#1d2a36">Luis Romero</text>
+  <text x="40" y="452" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#1d2a36">Marta D&#237;az</text>
+  <rect x="24" y="500" width="272" height="120" rx="10" fill="#f4f7f9"/>
+  <text x="40" y="528" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#7a8694">RESUMEN DEL DIA</text>
+  <text x="40" y="556" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1d2a36">Visitas: 8</text>
+  <text x="40" y="578" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1d2a36">Km estimados: 42</text>
+  <text x="40" y="600" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1d2a36">Pendientes: 1</text>
+  <rect x="320" y="86" width="960" height="694" fill="#dce6ef"/>
+  <path d="M360 640 C420 520, 480 500, 560 430 C640 360, 700 340, 780 300 C860 260, 920 280, 1020 240 C1100 210, 1160 200, 1220 180" stroke="#156fb3" stroke-width="4" fill="none"/>
+  <circle cx="420" cy="560" r="10" fill="#ffaf38" stroke="#fff" stroke-width="3"/>
+  <circle cx="560" cy="430" r="10" fill="#06ce9c" stroke="#fff" stroke-width="3"/>
+  <circle cx="780" cy="300" r="10" fill="#06ce9c" stroke="#fff" stroke-width="3"/>
+  <circle cx="1020" cy="240" r="10" fill="#38a5ff" stroke="#fff" stroke-width="3"/>
+  <circle cx="1180" cy="190" r="10" fill="#ed5034" stroke="#fff" stroke-width="3"/>
+  <rect x="980" y="120" width="260" height="150" rx="10" fill="#fff" opacity="0.96"/>
+  <text x="1000" y="148" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#0c1c41">Leyenda</text>
+  <circle cx="1012" cy="176" r="6" fill="#ffaf38"/><text x="1028" y="180" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1d2a36">Inspecci&#243;n t&#233;cnica</text>
+  <circle cx="1012" cy="200" r="6" fill="#ed5034"/><text x="1028" y="204" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1d2a36">Reclamo t&#233;cnico</text>
+  <circle cx="1012" cy="224" r="6" fill="#38a5ff"/><text x="1028" y="228" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1d2a36">Inspecci&#243;n RT</text>
+  <circle cx="1012" cy="248" r="6" fill="#06ce9c"/><text x="1028" y="252" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1d2a36">Prueba de seguridad</text>
+  <rect x="360" y="700" width="220" height="48" rx="8" fill="#fff"/>
+  <text x="376" y="720" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#7a8694">PROXIMA PARADA</text>
+  <text x="376" y="738" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#0c1c41">Torre G&#252;emes - 10:30</text>
+  <text x="640" y="760" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#9aa5b1">Captura ilustrativa - reemplazar por imagen real</text>
+</svg>

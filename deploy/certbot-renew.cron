@@ -1,0 +1,8 @@
+# Automatic Let's Encrypt renewal for archsys.com.ar
+# Installed at: /etc/cron.d/archsys-certbot
+
+SHELL=/bin/sh
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+
+# Daily at 03:17. Certbot renews only if fewer than 30 days remain.
+17 3 * * * root certbot renew --quiet --deploy-hook "systemctl reload nginx"

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1280" fill="none">
+  <rect width="720" height="1280" rx="48" fill="#0a2840"/>
+  <rect x="24" y="24" width="672" height="1232" rx="36" fill="#0c1c41"/>
+  <rect x="300" y="44" width="120" height="18" rx="9" fill="#1a2a3a"/>
+  <text x="360" y="110" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" fill="#fff">Escanea el c&#243;digo QR</text>
+  <rect x="70" y="160" width="580" height="720" rx="20" fill="#12263a"/>
+  <rect x="110" y="210" width="500" height="500" rx="8" fill="none" stroke="#156fb3" stroke-width="4"/>
+  <rect x="110" y="210" width="56" height="8" fill="#2a87c9"/>
+  <rect x="110" y="210" width="8" height="56" fill="#2a87c9"/>
+  <rect x="554" y="210" width="56" height="8" fill="#2a87c9"/>
+  <rect x="602" y="210" width="8" height="56" fill="#2a87c9"/>
+  <rect x="110" y="702" width="56" height="8" fill="#2a87c9"/>
+  <rect x="110" y="654" width="8" height="56" fill="#2a87c9"/>
+  <rect x="554" y="702" width="56" height="8" fill="#2a87c9"/>
+  <rect x="602" y="654" width="8" height="56" fill="#2a87c9"/>
+  <g fill="#c5d4e2" opacity="0.35">
+    <rect x="220" y="330" width="40" height="40"/>
+    <rect x="460" y="330" width="40" height="40"/>
+    <rect x="220" y="560" width="40" height="40"/>
+    <rect x="300" y="400" width="20" height="20"/>
+    <rect x="360" y="440" width="20" height="20"/>
+    <rect x="400" y="380" width="20" height="20"/>
+    <rect x="320" y="500" width="20" height="20"/>
+    <rect x="420" y="520" width="20" height="20"/>
+  </g>
+  <circle cx="580" cy="820" r="28" fill="#156fb3"/>
+  <text x="160" y="955" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#fff"> </text>
+  <rect x="160" y="920" width="400" height="56" rx="12" fill="#123e6a"/>
+  <text x="360" y="955" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#fff">Escanear desde foto</text>
+  <rect x="160" y="996" width="400" height="56" rx="12" fill="#156fb3"/>
+  <text x="360" y="1031" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#fff">Cancelar</text>
+  <text x="360" y="1120" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8aa0b5">El t&#233;cnico registra la visita en el equipo</text>
+  <text x="360" y="1144" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8aa0b5">sin papeles ni planillas.</text>
+  <text x="360" y="1220" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#5a7188">Captura ilustrativa - reemplazar por imagen real</text>
+</svg>

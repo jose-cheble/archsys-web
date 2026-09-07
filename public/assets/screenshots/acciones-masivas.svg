@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 780" fill="none">
+
+  <rect width="1280" height="780" rx="12" fill="#e8eef4"/>
+  <rect x="0" y="0" width="1280" height="36" fill="#d5dee8"/>
+  <circle cx="18" cy="18" r="5" fill="#ed6a5e"/>
+  <circle cx="34" cy="18" r="5" fill="#f4bf4f"/>
+  <circle cx="50" cy="18" r="5" fill="#61c554"/>
+  <rect x="180" y="10" width="920" height="16" rx="8" fill="#fff"/>
+
+
+  <text x="196" y="22" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#7a8694">app.archsys.com.ar / acciones-masivas</text>
+  <rect x="0" y="36" width="1280" height="50" fill="#156fb3"/>
+  
+  <rect x="20" y="54" width="18" height="2" fill="#fff"/>
+  <rect x="20" y="60" width="18" height="2" fill="#fff"/>
+  <rect x="20" y="66" width="18" height="2" fill="#fff"/>
+
+  <text x="56" y="67" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#fff">Arch - Acciones masivas</text>
+
+  <text x="48" y="130" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#0c1c41">Operaciones en lote</text>
+  <text x="48" y="158" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#5a6a7a">Carga, asignaci&#243;n e impresi&#243;n para flotas de edificios y equipos.</text>
+  <rect x="48" y="196" width="380" height="200" rx="12" fill="#fff" stroke="#e4e8ec"/>
+  <rect x="48" y="196" width="8" height="200" rx="4" fill="#156fb3"/>
+  <text x="80" y="240" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#0c1c41">Carga masiva de edificios</text>
+  <text x="80" y="272" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#5a6a7a">Importaci&#243;n por planilla con</text>
+  <text x="80" y="294" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#5a6a7a">validaci&#243;n previa y confirmaci&#243;n.</text>
+  <rect x="80" y="330" width="150" height="36" rx="8" fill="#10385e"/>
+  <text x="155" y="353" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fff">Abrir</text>
+  <rect x="452" y="196" width="380" height="200" rx="12" fill="#fff" stroke="#e4e8ec"/>
+  <rect x="452" y="196" width="8" height="200" rx="4" fill="#123e6a"/>
+  <text x="484" y="240" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#0c1c41">Carga masiva de equipos</text>
+  <text x="484" y="272" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#5a6a7a">Alta de ascensores asociados</text>
+  <text x="484" y="294" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#5a6a7a">a edificios existentes.</text>
+  <rect x="484" y="330" width="150" height="36" rx="8" fill="#10385e"/>
+  <text x="559" y="353" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fff">Abrir</text>
+  <rect x="856" y="196" width="380" height="200" rx="12" fill="#fff" stroke="#e4e8ec"/>
+  <rect x="856" y="196" width="8" height="200" rx="4" fill="#2a87c9"/>
+  <text x="888" y="240" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#0c1c41">Asignaci&#243;n de edificios</text>
+  <text x="888" y="272" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#5a6a7a">Asigna t&#233;cnicos, conservadores</text>
+  <text x="888" y="294" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#5a6a7a">o administraciones en lote.</text>
+  <rect x="888" y="330" width="150" height="36" rx="8" fill="#10385e"/>
+  <text x="963" y="353" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fff">Abrir</text>
+  <rect x="48" y="420" width="380" height="200" rx="12" fill="#fff" stroke="#e4e8ec"/>
+  <rect x="48" y="420" width="8" height="200" rx="4" fill="#06ce9c"/>
+  <text x="80" y="464" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#0c1c41">Impresi&#243;n masiva de QR</text>
+  <text x="80" y="496" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#5a6a7a">Hojas listas para imprenta,</text>
+  <text x="80" y="518" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#5a6a7a">con logo y datos del equipo.</text>
+  <rect x="80" y="554" width="150" height="36" rx="8" fill="#10385e"/>
+  <text x="155" y="577" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fff">Abrir</text>
+  <rect x="452" y="420" width="380" height="200" rx="12" fill="#fff" stroke="#e4e8ec"/>
+  <rect x="452" y="420" width="8" height="200" rx="4" fill="#ffaf38"/>
+  <text x="484" y="464" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#0c1c41">Regeneraci&#243;n de QR</text>
+  <text x="484" y="496" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#5a6a7a">Volve a emitir c&#243;digos</text>
+  <text x="484" y="518" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#5a6a7a">sin perder el historial.</text>
+  <rect x="484" y="554" width="150" height="36" rx="8" fill="#10385e"/>
+  <text x="559" y="577" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fff">Abrir</text>
+  <rect x="856" y="420" width="380" height="200" rx="12" fill="#fff" stroke="#e4e8ec"/>
+  <rect x="856" y="420" width="8" height="200" rx="4" fill="#38a5ff"/>
+  <text x="888" y="464" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#0c1c41">Orden de impresi&#243;n</text>
+  <text x="888" y="496" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#5a6a7a">Selecci&#243;n por edificio</text>
+  <text x="888" y="518" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#5a6a7a">y preview antes de imprimir.</text>
+  <rect x="888" y="554" width="150" height="36" rx="8" fill="#10385e"/>
+  <text x="963" y="577" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fff">Abrir</text>
+  <text x="640" y="760" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#9aa5b1">Captura ilustrativa - reemplazar por imagen real</text>
+</svg>

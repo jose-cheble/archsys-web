@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 780" fill="none">
+
+  <rect width="1280" height="780" rx="12" fill="#e8eef4"/>
+  <rect x="0" y="0" width="1280" height="36" fill="#d5dee8"/>
+  <circle cx="18" cy="18" r="5" fill="#ed6a5e"/>
+  <circle cx="34" cy="18" r="5" fill="#f4bf4f"/>
+  <circle cx="50" cy="18" r="5" fill="#61c554"/>
+  <rect x="180" y="10" width="920" height="16" rx="8" fill="#fff"/>
+
+
+  <text x="196" y="22" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#7a8694">app.archsys.com.ar / edificios</text>
+  <rect x="0" y="36" width="1280" height="50" fill="#156fb3"/>
+  
+  <rect x="20" y="54" width="18" height="2" fill="#fff"/>
+  <rect x="20" y="60" width="18" height="2" fill="#fff"/>
+  <rect x="20" y="66" width="18" height="2" fill="#fff"/>
+
+  <text x="56" y="67" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#fff">Arch - Edificios</text>
+
+  <rect x="24" y="104" width="160" height="36" rx="8" fill="#10385e"/>
+  <text x="44" y="127" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fff">+ Agregar edificio</text>
+  <rect x="480" y="104" width="140" height="36" rx="8" fill="#156fb3"/>
+  <text x="504" y="127" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fff">Servicio activo</text>
+  <rect x="628" y="104" width="150" height="36" rx="8" fill="#fff" stroke="#c5d0db"/>
+  <text x="650" y="127" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#5a6a7a">Servicio inactivo</text>
+  <rect x="980" y="98" width="132" height="52" rx="8" fill="#fff" stroke="#e4e8ec"/>
+  <text x="1046" y="118" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#7a8694">EDIFICIOS</text>
+  <text x="1012" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#156fb3">Activos 142</text>
+  <rect x="1120" y="98" width="132" height="52" rx="8" fill="#fff" stroke="#e4e8ec"/>
+  <text x="1186" y="118" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#7a8694">EQUIPOS</text>
+  <text x="1148" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#156fb3">Activos 318</text>
+  <rect x="24" y="168" width="1232" height="560" rx="10" fill="#fff" stroke="#e4e8ec"/>
+  <rect x="24" y="168" width="1232" height="48" rx="10" fill="#123e6a"/>
+  <text x="48" y="198" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#fff">NOMBRE</text>
+  <text x="300" y="198" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#fff">DIRECCI&#211;N</text>
+  <text x="620" y="198" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#fff">BARRIO</text>
+  <text x="820" y="198" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#fff">CIUDAD</text>
+  <text x="1000" y="198" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#fff">EQUIPOS</text>
+  <text x="1120" y="198" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#fff">ESTADO</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1d2a36">
+    <text x="48" y="248">Nueva C&#243;rdoba</text><text x="300" y="248">Av. Hip&#243;lito Yrigoyen 184</text><text x="620" y="248">Nueva C&#243;rdoba</text><text x="820" y="248">C&#243;rdoba</text><text x="1020" y="248">3</text>
+    <text x="48" y="298">Torre G&#252;emes</text><text x="300" y="298">Bv. San Juan 650</text><text x="620" y="298">Centro</text><text x="820" y="298">C&#243;rdoba</text><text x="1020" y="298">2</text>
+    <text x="48" y="348">Residencial Alberdi</text><text x="300" y="348">Av. Col&#243;n 1200</text><text x="620" y="348">Alberdi</text><text x="820" y="348">C&#243;rdoba</text><text x="1020" y="348">4</text>
+    <text x="48" y="398">General Paz</text><text x="300" y="398">Av. General Paz 210</text><text x="620" y="398">General Paz</text><text x="820" y="398">C&#243;rdoba</text><text x="1020" y="398">2</text>
+    <text x="48" y="448">Torre Centro</text><text x="300" y="448">25 de Mayo 180</text><text x="620" y="448">Centro</text><text x="820" y="448">C&#243;rdoba</text><text x="1020" y="448">5</text>
+    <text x="48" y="498">Edificio Cerro</text><text x="300" y="498">Av. Rafael N&#250;&#241;ez 4600</text><text x="620" y="498">Cerro</text><text x="820" y="498">C&#243;rdoba</text><text x="1020" y="498">2</text>
+    <text x="48" y="548">Plaza Espa&#241;a</text><text x="300" y="548">Av. Poeta Lugones 88</text><text x="620" y="548">Nueva C&#243;rdoba</text><text x="820" y="548">C&#243;rdoba</text><text x="1020" y="548">3</text>
+    <text x="48" y="598">Alto Verde</text><text x="300" y="598">Recta Martinolli 8500</text><text x="620" y="598">Arg&#252;ello</text><text x="820" y="598">C&#243;rdoba</text><text x="1020" y="598">1</text>
+    <text x="48" y="648">Torre R&#237;o</text><text x="300" y="648">Av. Costanera 320</text><text x="620" y="648">San Vicente</text><text x="820" y="648">C&#243;rdoba</text><text x="1020" y="648">2</text>
+  </g>
+  <g>
+    <rect x="1118" y="232" width="72" height="22" rx="11" fill="#e7f8f1"/><text x="1154" y="247" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#0a7a58">Activo</text>
+    <rect x="1118" y="282" width="72" height="22" rx="11" fill="#e7f8f1"/><text x="1154" y="297" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#0a7a58">Activo</text>
+    <rect x="1118" y="332" width="72" height="22" rx="11" fill="#e7f8f1"/><text x="1154" y="347" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#0a7a58">Activo</text>
+    <rect x="1118" y="382" width="72" height="22" rx="11" fill="#e7f8f1"/><text x="1154" y="397" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#0a7a58">Activo</text>
+    <rect x="1118" y="432" width="72" height="22" rx="11" fill="#e7f8f1"/><text x="1154" y="447" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#0a7a58">Activo</text>
+    <rect x="1118" y="482" width="72" height="22" rx="11" fill="#e7f8f1"/><text x="1154" y="497" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#0a7a58">Activo</text>
+    <rect x="1118" y="532" width="72" height="22" rx="11" fill="#e7f8f1"/><text x="1154" y="547" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#0a7a58">Activo</text>
+    <rect x="1118" y="582" width="72" height="22" rx="11" fill="#e7f8f1"/><text x="1154" y="597" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#0a7a58">Activo</text>
+    <rect x="1118" y="632" width="72" height="22" rx="11" fill="#e7f8f1"/><text x="1154" y="647" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#0a7a58">Activo</text>
+  </g>
+  <line x1="24" y1="216" x2="1256" y2="216" stroke="#e4e8ec"/>
+  <text x="48" y="710" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#7a8694">Mostrando 1 a 9 de 142 registros</text>
+  <text x="640" y="760" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#9aa5b1">Captura ilustrativa - reemplazar por imagen real</text>
+</svg>
