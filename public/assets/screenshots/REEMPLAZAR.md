@@ -1,20 +1,15 @@
-# Como reemplazar las capturas ilustrativas
+# Capturas de pantalla
 
-Los archivos de esta carpeta son mockups. Cuando tengas capturas reales del sistema, reemplaza cada archivo **manteniendo el mismo nombre**.
+Las imagenes PNG de esta carpeta son capturas reales de la app local.
 
 | Archivo | Pantalla |
 |---|---|
-| `inspecciones.svg` | Inicio / listado de inspecciones |
-| `edificios.svg` | Tabla de edificios |
-| `equipos.svg` | Detalle de equipo + QR |
-| `qr-movil.svg` | Escaner QR en celular |
-| `monitoreo.svg` | Monitoreo de rutas |
-| `reportes.svg` | Estadisticas y reportes |
-| `acciones-masivas.svg` | Acciones masivas |
+| inspecciones.png | Inicio / listado de inspecciones |
+| edificios.png | Tabla de edificios |
+| equipos.png | Detalle de equipo + QR (vista movil) |
+| qr-movil.png | Escaner QR en celular |
+| monitoreo.png | Monitoreo de rutas del RT |
+| reportes.png | Estadisticas mensuales |
+| acciones-masivas.png | Acciones masivas |
 
-Si las capturas reales son PNG o JPG:
-
-1. Guardalas con el mismo nombre base, por ejemplo `inspecciones.png`.
-2. Actualiza las rutas en `public/index.html` (todas las referencias a `./assets/screenshots/...`).
-
-Recomendacion: 1600 px de ancho, sin datos personales reales.
+Para volver a tomarlas: python tools/capture_app.py (app en localhost:4200).

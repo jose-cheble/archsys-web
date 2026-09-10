@@ -261,6 +261,16 @@ a {
   color: rgba(255, 255, 255, 0.78);
 }
 
+.hero-meta a {
+  color: rgba(255, 255, 255, 0.88);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.hero-meta a:hover {
+  color: #fff;
+}
+
 .hero-frame {
   background: rgba(255, 255, 255, 0.08);
   border: 1px solid rgba(255, 255, 255, 0.12);
@@ -573,6 +583,20 @@ a {
 .footer-copy {
   margin: 0;
   font-size: 0.9rem;
+}
+
+.footer-copy a {
+  color: rgba(255, 255, 255, 0.88);
+}
+
+.footer-copy a:hover {
+  color: #fff;
+}
+
+.shot-qr {
+  max-width: 420px;
+  margin: 0 auto;
+  object-fit: cover;
 }
 
 .lightbox {
