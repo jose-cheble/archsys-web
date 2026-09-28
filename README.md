@@ -73,8 +73,7 @@ sudo bash deploy/deploy.sh
 
 ## Contacto publicado
 
-- Telefono / WhatsApp: +54 9 351 664-4041
 - Email: soporte@archsys.com.ar
 - Sede: Cordoba Capital, Argentina
 
-El formulario no guarda datos en el servidor: abre WhatsApp o el cliente de correo del visitante con el mensaje ya armado.
+El formulario no guarda datos en el servidor: abre el cliente de correo del visitante con el mensaje ya armado.

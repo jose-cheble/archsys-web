@@ -124,11 +124,6 @@ a {
   border: 1px solid rgba(255, 255, 255, 0.45);
 }
 
-.btn-whatsapp {
-  background: #128c7e;
-  color: var(--white);
-}
-
 .btn-email {
   background: var(--primary);
   color: var(--white);
@@ -139,9 +134,8 @@ a {
   top: 0;
   z-index: 40;
   height: var(--header-h);
-  background: rgba(255, 255, 255, 0.96);
+  background: #ffffff;
   border-bottom: 1px solid var(--line);
-  backdrop-filter: blur(10px);
 }
 
 .header-inner {
@@ -158,7 +152,7 @@ a {
 }
 
 .brand img {
-  height: 58px;
+  height: 68px;
   width: auto;
 }
 
@@ -285,12 +279,6 @@ a {
   background: var(--white);
 }
 
-.placeholder-note {
-  margin: 8px 4px 0;
-  color: rgba(255, 255, 255, 0.55);
-  font-size: 0.75rem;
-}
-
 .trust-bar {
   background: var(--bg);
   border-bottom: 1px solid var(--line);
@@ -405,12 +393,6 @@ a {
 .shot-mobile {
   max-width: 280px;
   margin: 0 auto;
-}
-
-.shot-caption {
-  margin: 10px 0 0;
-  color: #8a96a3;
-  font-size: 0.78rem;
 }
 
 .roles {
@@ -697,6 +679,6 @@ a {
   }
 
   .brand img {
-    height: 48px;
+    height: 58px;
   }
 }

@@ -1,5 +1,4 @@
 (function () {
-  const WHATSAPP_NUMBER = "5493516644041";
   const SUPPORT_EMAIL = "soporte@archsys.com.ar";
 
   const headerNav = document.querySelector(".nav");
@@ -79,13 +78,6 @@
   if (form) {
     form.addEventListener("submit", function (event) {
       event.preventDefault();
-    });
-
-    document.getElementById("send-whatsapp").addEventListener("click", function () {
-      if (!validateForm()) return;
-      const text = encodeURIComponent(buildMessage());
-      window.open("https://wa.me/" + WHATSAPP_NUMBER + "?text=" + text, "_blank", "noopener");
-      showStatus("Se abri\u00f3 WhatsApp con tu consulta. Envi\u00e1 el mensaje para completar el contacto.", true);
     });
 
     document.getElementById("send-email").addEventListener("click", function () {
